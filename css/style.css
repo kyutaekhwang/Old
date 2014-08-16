@@ -1,20 +1,26 @@
 #wrapper {
-	width: 80%;
-	margin: 0 auto;
+	text-align: center;
+	margin: auto;
 }
 
 nav {
-	margin-top: 16px;
-	margin-bottom: 16px;
+	margin-top: 20px;
+	margin-bottom: 20px;
 }
 
 nav a {
 	color: #024578;
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 24px;
-
+	text-decoration: none;
+	margin-right: 50px;
+	margin-left: 50px;
 }
 
 nav a:hover {
-	text-decoration: none;
+	text-decoration: underline;
+}
+
+#bigimage {
+	width: 25%;
 }
