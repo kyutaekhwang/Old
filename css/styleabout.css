@@ -21,31 +21,13 @@ nav a:hover {
 	text-decoration: underline;
 }
 
-#bigimage {
-	vertical-align: bottom;
-	margin-top: 10px;
-	width: 30%;
+#aboutme img{
+	width: 10%;
+	margin-right: 100px;
+	margin-left: 100px;
 }
 
-#hello {
-	text-align: center;
-	margin: 0 auto;
-	background-color: #024578;
-	color: #ffffff;
-	font-family: 'Muli', sans-serif;
-}
 
-#hello h1{
-	font-size: 50px;
-	padding-top: 20px;
-	padding-bottom: 10px;
-}
-
-#hello p{
-	font-size: 20px;
-	padding-top: 2.5px;
-	padding-bottom: 2.5px;
-}
 
 footer {
 	text-align: center;
