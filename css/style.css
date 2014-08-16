@@ -1,6 +1,9 @@
 body {
-	font-family: Muli, sans-serif;
 	background-color: #012345;
 	color: #dedede;
 	line-height: 1.5;
+}
+
+p {
+	font-family: 'Muli', sans-serif;
 }
