@@ -1,0 +1,19 @@
+#wrapper {
+	width: 80%;
+	margin: 0 auto;
+}
+
+nav {
+	margin-top: 16px;
+	margin-bottom: 16px;
+}
+
+nav a {
+	color: #024578;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 24px;
+}
+
+nav a:hover {
+	text-decoration: underline;
+}
