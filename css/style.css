@@ -10,8 +10,9 @@ h1 {
 }
 
 
-p, ul, li {
+p {
 	font-family: 'Muli', sans-serif;
 	color: #000000;
 	background-color: #cccccc;
 }
+
