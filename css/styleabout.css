@@ -30,7 +30,7 @@ nav a:hover {
 	color: #024578;
 	font-family: 'Muli', sans-serif;
 	font-size: 40px;
-	margin-top: 25px;
+	margin-top: 20px;
 	margin-bottom: 20px;
 	font-weight: bolder;
 }
@@ -44,22 +44,48 @@ nav a:hover {
 	margin-bottom: 10px;
 }
 
-.three ul{
-	list-style-type: disc;
-	margin-left: 68px;
+#mystory {
+	float: left;
+	width: 33%;
+	display: block;
 }
 
-.three dd{
+#mystory p {
+	width: 296px;
+	margin-left: 121px;
+}
+
+#mystory img {
+	margin-left: 100px;
+}
+
+#mystory h1 {
+	margin-left: 100px;
+}
+
+#mytoolbox {
+	float: left;
+	width: 33%;
+	display: block;
+	margin-bottom: 15px;
+}
+
+#mytoolbox ul{
+	list-style-type: disc;
+	margin-left: 77px;
+}
+
+#mytoolbox dd{
 	color: #024578;
 	font-family: 'Muli', sans-serif;
 	font-size: 15px;
 	text-decoration: underline;
 	text-align: left;
-	margin-left: 50px;
+	margin-left: 55px;
 	line-height: 20px;
 }
 
-.three dl{
+#mytoolbox dl{
 	color: #024578;
 	font-family: 'Muli', sans-serif;
 	font-size: 15px;
@@ -70,25 +96,12 @@ nav a:hover {
 	margin-top: 10px;
 }
 
-.three li{
+#mytoolbox li{
 	color: #024578;
 	font-family: 'Muli', sans-serif;
 	font-size: 15px;
 	text-align: left;
 	line-height: 20px;
-}
-
-#mystory {
-	float: left;
-	width: 33%;
-	display: block;
-}
-
-#mytoolbox {
-	float: left;
-	width: 33%;
-	display: block;
-	margin-bottom: 10px;
 }
 
 #metoday {
@@ -97,7 +110,21 @@ nav a:hover {
 	display: block;
 }
 
-#metoday a{
+#metoday p {
+	width: 310px;
+	margin-left: 10px;
+}
+
+#metoday img {
+	margin-right: 100px;
+}
+
+#metoday h1 {
+	margin-right: 100px;
+}
+
+#metoday a {
+	margin-right: 112px;
 	color: #024578;
 	font-family: 'Muli', sans-serif;
 	font-size: 15px;
