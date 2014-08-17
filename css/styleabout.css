@@ -22,16 +22,16 @@ nav a:hover {
 }
 
 .three img{
-	margin-top: 31px;
-	max-width: 25%;
+	margin-top: 45px;
+	max-width: 29%;
 }
 
 .three h1{
 	color: #024578;
 	font-family: 'Muli', sans-serif;
 	font-size: 40px;
-	margin-top: 20px;
-	margin-bottom: 20px;
+	margin-top: 25px;
+	margin-bottom: 40px;
 	font-weight: bolder;
 }
 
@@ -40,7 +40,7 @@ nav a:hover {
 	font-family: 'Muli', sans-serif;
 	font-size: 15px;
 	text-align: left;
-	line-height: 20px;
+	line-height: 25px;
 	margin-bottom: 10px;
 }
 
@@ -82,7 +82,7 @@ nav a:hover {
 	text-decoration: underline;
 	text-align: left;
 	margin-left: 55px;
-	line-height: 20px;
+	line-height: 25px;
 }
 
 #mytoolbox dl{
@@ -92,7 +92,7 @@ nav a:hover {
 	text-decoration: underline;
 	text-align: left;
 	margin-left: 50px;
-	line-height: 20px;
+	line-height: 25px;
 	margin-top: 10px;
 }
 
@@ -101,7 +101,7 @@ nav a:hover {
 	font-family: 'Muli', sans-serif;
 	font-size: 15px;
 	text-align: left;
-	line-height: 20px;
+	line-height: 25px;
 }
 
 #metoday {
