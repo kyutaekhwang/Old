@@ -28,11 +28,11 @@ nav a:hover {
 
 .three h1{
 	color: #024578;
-	font-family: 'Muli', sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 50px;
 	margin-top: 30px;
 	margin-bottom: 40px;
-	font-weight: bolder;
+	font-weight: 900;
 }
 
 .three p{
@@ -126,9 +126,9 @@ nav a:hover {
 #metoday a {
 	margin-right: 112px;
 	color: #024578;
-	font-family: 'Muli', sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 15px;
-	font-weight: bolder;
+	font-weight: 550;
 	text-decoration: none;
 	border-style: solid;
 	background: #D6D6D6;
