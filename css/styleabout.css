@@ -21,12 +21,12 @@ nav a:hover {
 	text-decoration: underline;
 }
 
-.three img{
+.threecolumns img{
 	margin-top: 45px;
 	max-width: 27%;
 }
 
-.three h1{
+.threecolumns h1{
 	color: #024578;
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 50px;
@@ -35,7 +35,7 @@ nav a:hover {
 	font-weight: 900;
 }
 
-.three p{
+.threecolumns p{
 	color: #024578;
 	font-family: 'Muli', sans-serif;
 	font-size: 15px;
