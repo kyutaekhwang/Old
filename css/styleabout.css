@@ -21,7 +21,17 @@ nav a:hover {
 	text-decoration: underline;
 }
 
-/*.threecolumns img{
+.threecolumns {
+	margin: 0 80px;
+}
+
+.about_me_sections {
+  float: left;
+  width: 30%;
+  margin: 0 1.5% 24px 1.5%;
+}
+
+.threecolumns img{
 	margin-top: 45px;
 	max-width: 27%;
 }
@@ -35,7 +45,7 @@ nav a:hover {
 	font-weight: 900;
 }
 
-.threecolumns p{
+.about_me_sections p{
 	color: #024578;
 	font-family: 'Muli', sans-serif;
 	font-size: 15px;
@@ -44,59 +54,21 @@ nav a:hover {
 	margin-bottom: 10px;
 }
 
-#mystory {
-	float: left;
-	width: 33%;
-	display: block;
+.about_me_sections dd{
+	color: #024578;
+	font-family: 'Muli', sans-serif;
+	font-size: 15px;
+	text-align: left;
+	line-height: 25px;
+	text-decoration: underline;
 }
 
-#mystory p {
-	width: 296px;
-	margin-left: 121px;
-}
-
-#mystory img {
-	margin-left: 100px;
-}
-
-#mystory h1 {
-	margin-left: 100px;
-}
-
-#mytoolbox {
-	float: left;
-	width: 33%;
-	display: block;
-	margin-bottom: 15px;
-}
-
-#mytoolbox ul{
+.about_me_sections ul{
 	list-style-type: disc;
-	margin-left: 77px;
+	margin-left: 20px;
 }
 
-#mytoolbox dd{
-	color: #024578;
-	font-family: 'Muli', sans-serif;
-	font-size: 15px;
-	text-decoration: underline;
-	text-align: left;
-	margin-left: 55px;
-	line-height: 25px;
-}
-
-#mytoolbox dl{
-	color: #024578;
-	font-family: 'Muli', sans-serif;
-	font-size: 15px;
-	text-decoration: underline;
-	text-align: left;
-	margin-left: 50px;
-	line-height: 25px;
-	margin-top: 10px;
-}
-
-#mytoolbox li{
+.about_me_sections li{
 	color: #024578;
 	font-family: 'Muli', sans-serif;
 	font-size: 15px;
@@ -104,27 +76,12 @@ nav a:hover {
 	line-height: 25px;
 }
 
-#metoday {
-	float: left;
-	width: 33%;
-	display: block;
+.about_me_sections li:last-child {
+	margin-bottom: 10px;
 }
 
-#metoday p {
-	width: 310px;
-	margin-left: 10px;
-}
-
-#metoday img {
-	margin-right: 100px;
-}
-
-#metoday h1 {
-	margin-right: 100px;
-}
-
-#metoday a {
-	margin-right: 112px;
+#metoday button{
+	margin-top: 35px;
 	color: #024578;
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 15px;
@@ -132,23 +89,10 @@ nav a:hover {
 	text-decoration: none;
 	border-style: solid;
 	background: #D6D6D6;
-	border-width: 10px 20px 10px 20px;
+	border-width: 10px 20px;
 	border-color: #D6D6D6;
 	border-radius: 5px;
-}*/
-
-.threecolumns {
-	margin: 0 80px;
 }
-
-.about_me_sections {
-  float: left;
-  width: 30%;
-  margin: 0 1.5% 24px 1.5%;
-}
-
-
-
 
 footer {
 	text-align: center;
