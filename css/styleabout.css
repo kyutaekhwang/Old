@@ -22,7 +22,7 @@ nav a:hover {
 }
 
 .three img{
-	margin-top: 40px;
+	margin-top: 31px;
 	max-width: 25%;
 }
 
@@ -57,6 +57,17 @@ nav a:hover {
 	text-align: left;
 	margin-left: 50px;
 	line-height: 20px;
+}
+
+.three dl{
+	color: #024578;
+	font-family: 'Muli', sans-serif;
+	font-size: 15px;
+	text-decoration: underline;
+	text-align: left;
+	margin-left: 50px;
+	line-height: 20px;
+	margin-top: 10px;
 }
 
 .three li{
