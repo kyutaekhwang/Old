@@ -21,10 +21,69 @@ nav a:hover {
 	text-decoration: underline;
 }
 
+.portfolio_description {
+	background-color: #024578;
+	padding: 30px 0 30px 30px;
+}
 
+.portfolio_description p {
+	font-family: 'Muli', sans-serif;
+	font-size: 20px;
+	color: #ffffff;
+	padding: 2.5px 0px 2.5px 95px;
+	line-height: 25px;
+	text-align: left;
+}
 
+.portfolio_description button{
+	margin-top: -50px;
+	margin-right: 128px;
+	float: right;
+	color: #ffffff;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 15px;
+	font-weight: 550;
+	text-decoration: none;
+	border-style: solid;
+	background: #C73223;
+	border-width: 10px 20px;
+	border-color: #C73223;
+	border-radius: 5px;
+	cursor: pointer;
+}
 
+.twocolumns {
+	margin: 0 80px;
+}
 
+.twocolumns img {
+	margin-top: 45px;
+	max-width: 100%;
+}
+
+.projects {
+	float: left;
+  	margin: 0 2.5%;
+ 	width: 45%;
+}
+
+.projects h1 {
+	color: #024578;	
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 20px;
+	margin: 30px 20px 5px 20px;
+	font-weight: 900;
+	text-align: left;
+}
+
+.projects p {
+	color: #024578;
+	font-family: 'Muli', sans-serif;
+	font-size: 15px;
+	text-align: left;
+	line-height: 25px;
+	margin: 0 20px 34px 20px;
+}
 
 footer {
 	text-align: center;
@@ -36,7 +95,7 @@ footer {
 	clear: both;
 }
 
-footer img{
+footer img {
 	max-width: 20px;
 	max-height: 20px;
 	margin-top: 25px;
@@ -44,7 +103,7 @@ footer img{
 	margin-left: 25px;
 }
 
-footer dd{
+footer dd {
 	padding-top: 15px;
 	padding-bottom: 13px;
 }
