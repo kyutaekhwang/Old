@@ -24,7 +24,7 @@ nav a:hover {
 #bigimage {
 	vertical-align: bottom;
 	margin-top: 10px;
-	width: 30%;
+	width: 28%;
 }
 
 #hello {
@@ -45,6 +45,7 @@ nav a:hover {
 	font-size: 20px;
 	padding-top: 2.5px;
 	padding-bottom: 2.5px;
+	line-height: 30px;
 }
 
 footer {
@@ -54,17 +55,18 @@ footer {
 	color: #ffffff;
 	font-family: 'Muli', sans-serif;
 	font-size: 8px;
+	clear: both;
 }
 
 footer img{
 	max-width: 20px;
 	max-height: 20px;
-	margin-top: 25px;
+	margin-top: 31px;
 	margin-right: 25px;
 	margin-left: 25px;
 }
 
 footer dd{
 	padding-top: 15px;
-	padding-bottom: 9px;
+	padding-bottom: 13px;
 }
