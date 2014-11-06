@@ -21,13 +21,13 @@ nav a:hover {
 	text-decoration: underline;
 }
 
-#bigimage {
+.bigimage {
 	vertical-align: bottom;
 	margin-top: 10px;
 	width: 30%;
 }
 
-#hello {
+.hello {
 	text-align: center;
 	margin: 0 auto;
 	background-color: #024578;
@@ -35,13 +35,13 @@ nav a:hover {
 	font-family: 'Muli', sans-serif;
 }
 
-#hello h1{
+.hello h1{
 	font-size: 50px;
 	padding-top: 20px;
 	padding-bottom: 10px;
 }
 
-#hello p{
+.hello p{
 	font-size: 20px;
 	padding-top: 2.5px;
 	padding-bottom: 2.5px;
