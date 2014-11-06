@@ -28,20 +28,24 @@ nav a:hover {
 }
 
 .hello {
-	text-align: center;
 	padding: 20px 30px 10px 30px;
 	margin: 0 auto;
-	background-color: #024578;
-	color: #ffffff;
-	font-family: 'Muli', sans-serif;
 }
 
 .hello h1{
+	text-align: center;
+	background-color: #024578;
+	color: #ffffff;
+	font-family: 'Muli', sans-serif;
 	font-size: 50px;
 	padding: 0 0 10px 0;
 }
 
 .hello p{
+	text-align: center;
+	background-color: #024578;
+	color: #ffffff;
+	font-family: 'Muli', sans-serif;
 	font-size: 20px;
 	padding: 2.5px 0 2.5px 0;
 	line-height: 25px;
